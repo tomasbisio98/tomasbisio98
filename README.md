@@ -40,11 +40,23 @@ Actualmente me encuentro en proceso de reconversión profesional al mundo tech. 
 
 
 ### 📌 Proyectos destacados (en construcción)
-> *Subiré pronto el primero de los siguientes y bien documentado*
+> *Subiré a fines de junio el primero de los siguientes y bien documentado*
 
 - Fundación de donaciones (vía Stripe) para animales
-- API REST Ecommerce (NestJS + PostgreSQL)
-- Gestor de turnos médicos (Node.js + Express)
+
+
+🩺 API REST Ecommerce
+
+Repositorio de backend para una tienda online. Permite registro de usuarios, login con JWT, gestión de productos, órdenes y control de roles (admin/user).
+
+**Tecnologías:** NestJS · PostgreSQL · TypeORM · JWT · Swagger  
+🔗 [Ver repositorio]([https://github.com/tomasbisio98/api-ecommerce-nestjs](https://github.com/pi-rym/PM4BE-tomasbisio98))
+
+🩺 Gestor de turnos médicos
+Sistema de gestión de turnos para consultorios. Incluye autenticación de pacientes, asignación de turnos y gestión de agenda del profesional médico.
+
+**Tecnologías:** Node.js · Express · SQL · Sequelize · JWT  
+🔗 [Ver repositorio](https://github.com/pi-rym/PM3-tomasbisio98)
 
 ---
 
