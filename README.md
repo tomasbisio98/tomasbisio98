@@ -59,7 +59,7 @@ Repositorio de backend para una tienda online. Permite registro de usuarios, log
 
 ### 📅 Gestor de turnos médicos
 
-Sistema de gestión de turnos para consultorios. Incluye autenticación de pacientes, asignación de turnos y gestión de agenda del profesional médico.
+Sistema de gestión de turnos para consultorios. Incluye autenticación de pacientes, asignación y cancelación de turnos según agenda y reglas de negocio del mismo.
 
 **Tecnologías:** Node.js · Express & Typescript · TypeORM  · Postgresql · React + Vite · Bootstrap 🔗 [Ver repositorio](https://github.com/pi-rym/PM3-tomasbisio98)
 
