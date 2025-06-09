@@ -39,24 +39,33 @@ Actualmente me encuentro en proceso de reconversión profesional al mundo tech. 
 ---
 
 
-### 📌 Proyectos destacados (en construcción)
-> *Subiré a fines de junio el primero de los siguientes y bien documentado*
+---
 
-🩺 Fundación de donaciones (vía Stripe) para animales
-Permite donar dinero para la adquisición de productos específicos necesitados por cada animal. Dasbhoard de visualización de estadísticas para el administrador de la fundación
+## 📌 Proyectos destacados
 
-🩺 API REST Ecommerce
+### 🐶 Fundación de donaciones para animales (Stripe + Dashboard)
+Permite donar dinero para la adquisición de productos específicos necesitados por cada animal. Incluye dashboard con estadísticas para el administrador de la fundación.
 
-Repositorio de backend para una tienda online. Permite registro de usuarios, login con JWT, gestión de productos, órdenes y control de roles (admin/user).
+**Tecnologías:** Node.js · NestJS · Stripe · PostgreSQL · React  
+🔗 En construcción, a publicar a principios de julio 2025
+
+---
+
+### 🛍️ API REST Ecommerce
+
+Repositorio de backend para una tienda online. Permite registro de usuarios, login con JWT, gestión de productos, órdenes de compra y control de roles (admin/user).
 
 **Tecnologías:** NestJS · PostgreSQL · TypeORM · JWT · Swagger  
-🔗 [Ver repositorio](https://github.com/pi-rym/PM4BE-tomasbisio98)
+🔗 [Ver repositorio](https://github.com/tomasbisio98/api-ecommerce-nestjs)
 
-🩺 Gestor de turnos médicos
+---
+
+### 📅 Gestor de turnos médicos
+
 Sistema de gestión de turnos para consultorios. Incluye autenticación de pacientes, asignación de turnos y gestión de agenda del profesional médico.
 
 **Tecnologías:** Node.js · Express · SQL · Sequelize · JWT  
-🔗 [Ver repositorio](https://github.com/pi-rym/PM3-tomasbisio98)
+🔗 [Ver repositorio](https://github.com/tomasbisio98/gestor-turnos)
 
 ---
 
