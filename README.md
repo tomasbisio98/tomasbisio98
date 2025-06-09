@@ -56,7 +56,7 @@ Permite donar dinero para la adquisición de productos específicos necesitados 
 Repositorio de backend para una tienda online. Permite registro de usuarios, login con JWT, gestión de productos, órdenes de compra y control de roles (admin/user).
 
 **Tecnologías:** NestJS · PostgreSQL · TypeORM · JWT · Swagger  
-🔗 [Ver repositorio](https://github.com/tomasbisio98/api-ecommerce-nestjs)
+🔗 [Ver repositorio](https://github.com/pi-rym/PM4BE-tomasbisio98)
 
 ---
 
@@ -65,7 +65,7 @@ Repositorio de backend para una tienda online. Permite registro de usuarios, log
 Sistema de gestión de turnos para consultorios. Incluye autenticación de pacientes, asignación de turnos y gestión de agenda del profesional médico.
 
 **Tecnologías:** Node.js · Express · SQL · Sequelize · JWT  
-🔗 [Ver repositorio](https://github.com/tomasbisio98/gestor-turnos)
+🔗 [Ver repositorio](https://github.com/pi-rym/PM3-tomasbisio98)
 
 ---
 
