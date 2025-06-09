@@ -1,7 +1,20 @@
 # 👋 ¡Hola! Soy Tomás Bisio
 
-🎓 **Ingeniero Industrial** con experiencia internacional gestionando proyectos IT en entornos ágiles.  
-💻 En transición al mundo del desarrollo, actualmente me formo como **Backend Developer **, aplicando buenas prácticas y tecnologías modernas.
+# 👨‍💻 Backend Developer Jr | Ingeniero Industrial
+
+## ⚙️ Mi objetivo
+
+Crecer como desarrollador backend apoyándome en mi formación como Ingeniero Industrial, mi experiencia profesional liderando proyectos IT en entornos internacionales, y mi reciente formación intensiva en desarrollo web Full Stack y Cloud.
+
+---
+
+## 🌱 Mi background
+
+Me gradué como **Ingeniero Industrial** y trabajé 2 años como **IT Project Manager** en una empresa francesa gestionando más de 20 proyectos en Francia, España y Canadá.  
+Participé en desarrollo de productos digitales, coordinación de equipos remotos y aplicación de metodologías ágiles.  
+También realicé pasantías en **Renault Argentina** y cursé parte de mi carrera en Francia como **becario Erasmus**.
+
+Actualmente me encuentro en proceso de reconversión profesional al mundo tech. Realicé un bootcamp intensivo de más de **800 horas** en Henry.
 
 ---
 
@@ -15,7 +28,6 @@
 - **DEV TOOLS:** Git · GitHub · Postman · Insomnia · Docker · Stripe
 - **SOFT SKILLS & TOOLS:** Scrum · Agile · Jira · Trello 
 
-
 ---
 
 ### 📈 Experiencia relevante
@@ -28,7 +40,7 @@
 
 
 ### 📌 Proyectos destacados (en construcción)
-> *Subiré pronto algunos de estos repos públicos y bien documentados*
+> *Subiré pronto el primero de los siguientes y bien documentado*
 
 - Fundación de donaciones (vía Stripe) para animales
 - API REST Ecommerce (NestJS + PostgreSQL)
@@ -43,7 +55,5 @@
 📬 tomibisio1@gmail.com
 
 ---
-
-+900hs Fullstack Developer Bootcamp (Henry)
 
 🧩 *Aprendo construyendo. Siempre abierto a nuevos desafíos y feedback.*
