@@ -39,8 +39,6 @@ Actualmente me encuentro en proceso de reconversión profesional al mundo tech. 
 ---
 
 
----
-
 ## 📌 Proyectos destacados
 
 ### 🐶 Fundación de donaciones para animales (Stripe + Dashboard)
@@ -55,8 +53,7 @@ Permite donar dinero para la adquisición de productos específicos necesitados 
 
 Repositorio de backend para una tienda online. Permite registro de usuarios, login con JWT, gestión de productos, órdenes de compra y control de roles (admin/user).
 
-**Tecnologías:** NestJS & TypeORM · PostgreSQL · Swagger · JWT   
-🔗 [Ver repositorio](https://github.com/pi-rym/PM4BE-tomasbisio98)
+**Tecnologías:** NestJS & TypeORM · PostgreSQL · Swagger · JWT   🔗 [Ver repositorio](https://github.com/pi-rym/PM4BE-tomasbisio98)
 
 ---
 
@@ -64,8 +61,7 @@ Repositorio de backend para una tienda online. Permite registro de usuarios, log
 
 Sistema de gestión de turnos para consultorios. Incluye autenticación de pacientes, asignación de turnos y gestión de agenda del profesional médico.
 
-**Tecnologías:** Node.js · Express & Typescript · TypeORM  · Postgresql · React + Vite · Bootstrap
-🔗 [Ver repositorio](https://github.com/pi-rym/PM3-tomasbisio98)
+**Tecnologías:** Node.js · Express & Typescript · TypeORM  · Postgresql · React + Vite · Bootstrap 🔗 [Ver repositorio](https://github.com/pi-rym/PM3-tomasbisio98)
 
 ---
 
