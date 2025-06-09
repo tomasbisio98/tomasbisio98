@@ -42,7 +42,7 @@ Actualmente me encuentro en proceso de reconversión profesional al mundo tech. 
 ### 📌 Proyectos destacados (en construcción)
 > *Subiré a fines de junio el primero de los siguientes y bien documentado*
 
-- Fundación de donaciones (vía Stripe) para animales
+🩺 Fundación de donaciones (vía Stripe) para animales
 Permite donar dinero para la adquisición de productos específicos necesitados por cada animal. Dasbhoard de visualización de estadísticas para el administrador de la fundación
 
 🩺 API REST Ecommerce
