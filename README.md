@@ -1,10 +1,9 @@
 # 👋 ¡Hola! Soy Tomás Bisio
-
-## 👨‍💻 Backend Developer Jr | Ingeniero Industrial
+👨‍💻 Backend Developer Jr | Ingeniero Industrial
 
 ## ⚙️ Mi objetivo
 
-Crecer como desarrollador backend apoyándome en mi formación como Ingeniero Industrial, mi experiencia profesional liderando proyectos IT en entornos internacionales, y mi reciente formación intensiva en desarrollo web Full Stack y Cloud.
+Seguir creciendo como desarrollador backend, combinando mi formación como Ingeniero Industrial, mi experiencia liderando proyectos IT internacionales y mi reciente capacitación intensiva en desarrollo web Full Stack y Cloud.
 
 ---
 
