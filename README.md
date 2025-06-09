@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Tomás Bisio
 
-# 👨‍💻 Backend Developer Jr | Ingeniero Industrial
+## 👨‍💻 Backend Developer Jr | Ingeniero Industrial
 
 ## ⚙️ Mi objetivo
 
