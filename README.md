@@ -20,13 +20,13 @@ Actualmente me encuentro en proceso de reconversión profesional al mundo tech. 
 
 ### 🛠️ Stack Tecnológico
 
-- **BACKEND:** NestJS · Node.js · Express
-- **CLOUD:** AWS Certified Cloud Practitioner
-- **DEPLOY:** Docker · Vercel · Render
-- **DB:** PostgreSQL · MongoDB · SQL
-- **FRONTED:** React · HTML · CSS
-- **DEV TOOLS:** Git · GitHub · Postman · Insomnia · Docker · Stripe
-- **SOFT SKILLS & TOOLS:** Scrum · Agile · Jira · Trello 
+- **LANGUAGES:** JavaScript · TypeScript 
+- **BACKEND:** Node.js · Express · NestJS
+- **FRONTEND:** React · HTML · CSS
+- **DATABASES:** PostgreSQL · MongoDB
+- **CLOUD & DEPLOY:** AWS (Cloud Practitioner) · Docker · Vercel · Render
+- **DEV TOOLS:** Git · GitHub · Postman · Insomnia · Stripe
+- **WORKFLOW:** Agile · Scrum · Jira · Trello
 
 ---
 
