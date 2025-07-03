@@ -44,7 +44,8 @@ Actualmente me encuentro en proceso de reconversión profesional al mundo tech. 
 Permite donar dinero para la adquisición de productos específicos necesitados por cada animal. Incluye dashboard con estadísticas para el administrador de la fundación.
 
 **Tecnologías:** Node.js · NestJS · Stripe · PostgreSQL · React  
-🔗 En construcción, a publicar a principios de julio 2025
+🔗 BACK:[Ver repositorio](https://github.com/tomasbisio98/back-pawforpaw)
+🔗 BACK:[Ver repositorio](https://github.com/tomasbisio98/front-pawforpaw)
 
 ---
 
