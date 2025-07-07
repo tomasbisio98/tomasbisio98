@@ -45,7 +45,7 @@ Permite donar dinero para la adquisición de productos específicos necesitados 
 
 **Tecnologías:** Node.js · NestJS · Stripe · PostgreSQL · React  
 🔗 BACK:[Ver repositorio](https://github.com/tomasbisio98/back-pawforpaw)
-🔗 BACK:[Ver repositorio](https://github.com/tomasbisio98/front-pawforpaw)
+🔗 FRONT:[Ver repositorio](https://github.com/tomasbisio98/front-pawforpaw)
 
 ---
 
