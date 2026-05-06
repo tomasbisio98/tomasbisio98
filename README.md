@@ -9,11 +9,9 @@ Seguir creciendo como desarrollador backend, combinando mi formación como Ingen
 
 ## 🌱 Mi background
 
-Me gradué como **Ingeniero Industrial** y trabajé 2 años como **IT Project Manager** en una empresa francesa gestionando más de 20 proyectos en Francia, España y Canadá.  
+Me gradué como **Ingeniero Industrial** y trabajé  como **IT Project Manager** gestionando más de 20 proyectos en Francia, España, Canadá y LATAM. 
 Participé en desarrollo de productos digitales, coordinación de equipos remotos y aplicación de metodologías ágiles.  
 También realicé pasantías en **Renault Argentina** y cursé parte de mi carrera en Francia como **becario Erasmus**.
-
-Actualmente me encuentro en proceso de reconversión profesional al mundo tech. Realicé un bootcamp intensivo de más de **800 horas** en Henry.
 
 ---
 
