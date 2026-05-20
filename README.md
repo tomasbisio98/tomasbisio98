@@ -1,15 +1,15 @@
 # 👋 ¡Hola! Soy Tomás Bisio
-👨‍💻 Backend Developer Jr | Ingeniero Industrial
+👨‍💻 Technical Project Manager |Backend Developer Jr | Ingeniero Industrial
 
 ## ⚙️ Mi objetivo
 
-Seguir creciendo como desarrollador backend, combinando mi formación como Ingeniero Industrial, mi experiencia liderando proyectos IT internacionales y mi reciente capacitación intensiva en desarrollo web Full Stack y Cloud.
+Seguir creciendo como gestor de proyectos y programador, combinando mi formación como Ingeniero Industrial, mi experiencia liderando proyectos IT internacionales y mi reciente capacitación intensiva en desarrollo web Full Stack y Cloud.
 
 ---
 
 ## 🌱 Mi background
 
-Me gradué como **Ingeniero Industrial** y trabajé  como **IT Project Manager** gestionando más de 20 proyectos en Francia, España, Canadá y LATAM. 
+Me gradué como **Ingeniero Industrial** y trabajé  como **IT Project Manager** gestionando más de 35 proyectos en Francia, España, Canadá y LATAM. 
 Participé en desarrollo de productos digitales, coordinación de equipos remotos y aplicación de metodologías ágiles.  
 También realicé pasantías en **Renault Argentina** y cursé parte de mi carrera en Francia como **becario Erasmus**.
 
